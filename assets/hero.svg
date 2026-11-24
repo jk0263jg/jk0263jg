@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="오재유 | Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e2327"/>
+      <stop offset="1" stop-color="#2b3a4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <g font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', 'Malgun Gothic', sans-serif">
+    <text x="80" y="135" font-size="56" font-weight="700" fill="#ffffff">오재유</text>
+    <text x="80" y="188" font-size="28" fill="#c9d4df">Backend Developer</text>
+    <text x="80" y="238" font-size="20" fill="#8fa3b5">Java · Spring Boot · Python · FastAPI · MySQL · PostgreSQL</text>
+  </g>
+</svg>
